@@ -14,11 +14,11 @@
 
 
 ## 3. Time Complexity
-Worst Case
+### Worst Case
 * En son isteyeceğimiz durum. yani aranan sayının dizinin en sonunda olması gibi O(n^2)
-Average Case
+### Average Case
 * Best ile Worst ortalaması olarak düşünebiliriz O(n^2)
-Best Case
+### Best Case
 * Olabilecek en hızlı sonuç diyebiliriz. Aradığımız sayı dizinin en başında olması. O(n)
 
 
